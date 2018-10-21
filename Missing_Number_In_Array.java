@@ -5,7 +5,7 @@ public class Missing_Number_In_Array {
 	public static void main(String[] args) {
 		
 		
-		//// 1st case
+		// 1st case
 		int a[] = {1,2,3,4,6,7,8,9,10};
 		
 		int sum1 = 0;
@@ -26,7 +26,7 @@ public class Missing_Number_In_Array {
 		System.out.println("Missing number is::====>"+ (sum2-sum1));
 
 		
-		////// secound case
+		// secound case
 		int ar[]= {10,11,12,13,14,16,17,18,19,20};
 		int sum3 = 0;
 		
